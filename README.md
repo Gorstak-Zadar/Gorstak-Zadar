@@ -1,4 +1,4 @@
-# Hey, I'm Goran Stambuk
+# Hey, I'm Goran Štambuk
 
 **Security tools, system utilities & scripts**
 
