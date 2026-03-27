@@ -8,13 +8,15 @@
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gorstak-Zadar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+<!-- github-readme-stats.vercel.app is often rate-limited via GitHub's image proxy; these cards use github-profile-summary-cards instead -->
+
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gorstak-Zadar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gorstak-Zadar&theme=dark&hide_border=true&background=0D1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## Top languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorstak-Zadar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=10&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gorstak-Zadar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
