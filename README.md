@@ -1,4 +1,4 @@
-<!-- description: Goran Štambuk — security tools & scripts; links to gorstak.eu. Profile README only (no shipped code here). -->
+<!-- description: Goran Stambuk (Gorstak-Zadar): security tools & scripts; gorstak.eu. Profile README only. -->
 
 # Hey, I'm Goran Štambuk
 
